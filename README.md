@@ -35,8 +35,8 @@ I'm a **self-driven full-stack developer** and **data science enthusiast** passi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanrawat-git&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrawat-git&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saitama-uzumaki-git&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitama-uzumaki-git&theme=tokyonight" width="48%"/>
 </p>
 
 ---
