@@ -36,9 +36,9 @@ I'm a **self-driven full-stack developer** and **data science enthusiast** passi
 
 ### 🚀 Projects
 
-- **Scaatch** — Full-stack e-commerce platform with JWT authentication, product filtering, order history, and more.  
-  Tech Used: Node.js, Express, MongoDB, EJS, Bootstrap  
-  [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+- **[Scaatch](https://scatch-buor.onrender.com/)** — Full-stack e-commerce platform with JWT authentication, product filtering, order history, and more.  
+  <sub>Tech Used: Node.js, Express, MongoDB, EJS, Bootstrap</sub>  
+  [🌐 Live Demo](https://scatch-buor.onrender.com/) | [🔗 GitHub Repo](#)
 
 - **Linked List Reversal Visualizer** — Visual tool for reversing linked lists step-by-step with animation (React)  
   [🔗 GitHub Repo](#)
