@@ -1,37 +1,72 @@
-### Hi there 👋, I'm Aryan!
+<h1 align="center">Hi there 👋, I'm Aryan Rawat</h1>
 
-I'm a passionate developer and data science enthusiast. I enjoy building useful applications and exploring the world of machine learning.
+<p align="center">
+  🚀 Developer | 💻 Problem Solver | 📊 Data Science Enthusiast <br/>
+  B.Tech Student | MERN Stack & C++ Enthusiast | Building cool tech!
+</p>
 
+---
 
+### 👨‍💻 About Me
 
-<br>
+I'm a **self-driven full-stack developer** and **data science enthusiast** passionate about turning ideas into scalable products. I love working on **real-world projects** (like my recent e-commerce app Scaatch 🛍️) and solving complex **DSA problems** using C++. I'm also focused on building strong communication and soft skills to thrive in tech interviews and team environments.
+
+- 🔭 Currently building: `Scaatch` — E-commerce Web App using Node.js, MongoDB, EJS
+- 🌱 Learning: System Design, React Animations, Deployment with Render & Docker
+- 💬 Ask me about: MERN stack, C++, DSA, MongoDB, Node.js
+- ⚡ Fun Fact: I enjoy reverse engineering logic in coding problems 🧠
+
+---
 
 ### 🛠️ Skills & Technologies
 
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <!-- Language Badges -->
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,express,mongodb,react,html,css,git,github,jupyter,vscode" />
+</p>
+
+<!-- Circular badge fallback (optional) -->
+<!-- 
+<img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black&style=flat-square" />
+-->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanrawat-git&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanrawat-git&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+- **Scaatch** — Full-stack e-commerce platform with JWT authentication, product filtering, order history, and more.  
+  Tech Used: Node.js, Express, MongoDB, EJS, Bootstrap  
+  [🔗 GitHub Repo](#) | [🌐 Live Demo](#)
+
+- **Linked List Reversal Visualizer** — Visual tool for reversing linked lists step-by-step with animation (React)  
+  [🔗 GitHub Repo](#)
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-rawat-417b3129b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-  </a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
+  <a href="mailto:aryanrawat1101@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<br>
+---
 
-### 📫 How to reach me:
+### 🔍 Let's grow together!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryan-rawat-417b3129b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  </p>
+- 🚀 I’m open to **internships**, **freelance opportunities**, and **collaborations**
+- 🤝 Let’s connect and grow together — Feel free to reach out!
+
