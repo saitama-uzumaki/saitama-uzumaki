@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aryan Rawat</h1>
+<h1 align="center">Hii there 👋, I'm Aryan Rawat</h1>
 
 <p align="center">
   🚀 Developer | 💻 Problem Solver | 📊 Data Science Enthusiast <br/>
